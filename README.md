@@ -29,7 +29,7 @@ You can use it directly in github action of an existing repository without cloni
 ```
 steps:
   - uses: actions/checkout@master
-  - name: Update gist
+  - name:91c1e1a994d2e2a58bb78ba140f93848
     uses: kf-liu/date-box@master
     env:
       TYPE: DAY  
